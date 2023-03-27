@@ -1,8 +1,18 @@
 @font-face {
-  font-family: "Signika";
+  font-family: 'Arbutus Slab';
   font-style: normal;
-  font-weight: 600;
-  src: url("../fonts/Signika-Semibold.woff2") format("woff2"),
-    url("../fonts/Signika-Semibold.woff") format("woff");
+  font-weight: 400;
+  src: url("../fonts/ArbutusSlab-Regular.woff2") format("woff2"),
+    url("../fonts/ArbutusSlab-Regular.woff") format("woff");
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/CormorantInfant-Regular.woff2") format("woff2"),
+    url("../fonts/CormorantInfant-Regular.woff") format("woff");
   font-display: swap;
 }

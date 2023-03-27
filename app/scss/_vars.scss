@@ -1,7 +1,19 @@
 // breakpoints
-$xxl: 1400px;
-$xl: 1200px;
-$lg: 992px;
-$md: 768px;
-$sm: 576px;
-$xs: 374px;
+// $xxl: 1400px;
+// $xl: 1200px;
+// $lg: 992px;
+// $md: 768px;
+// $sm: 576px;
+// $xs: 374px;
+
+// fonts
+
+%arbutus-400 {
+  font-family: "Arbutus Slab", serif;
+  font-weight: 400;
+}
+
+%cormorant-400 {
+  font-family: "Cormorant Infant", serif;
+  font-weight: 400;
+}
